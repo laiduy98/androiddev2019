@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: *Lai Khang Duy*
+* ID: *USTHBI7-051 *
+* Group ID: *2*
+* Project Name: *Wordpress*
