@@ -1,38 +1,18 @@
 <resources>
     <string name="app_name">Wordpress</string>
-    <string name="navigation_drawer_open">Open</string>
-    <string name="navigation_drawer_close">Close</string>
-
-    <string-array name="my_items">
-        <item>Paper 1</item>
-        <item>Paper 2</item>
-        <item>Paper 3</item>
-        <item>Paper 4</item>
-        <item>Paper 5</item>
-        <item>Paper 6</item>
-        <item>Paper 7</item>
-        <item>Paper 8</item>
-        <item>Paper 9</item>
-        <item>Paper 10</item>
-        <item>Paper 11</item>
-        <item>Paper 12</item>
-        <item>Paper 13</item>
-        <item>Paper 14</item>
-
-
-    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Lai Khang Duy</string>
+    <string name="nav_header_subtitle">duylk.b7051@st.usth.edu.vn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="dummy">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-        parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-        Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam
-        dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean
-        leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-        parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-        Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam
-        dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean
-        leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut
-    </string>
+    <string name="title_activity_post">Post</string>
+    <string name="text1">It used to be that I could run up a mountain. I made mountains out of prairie hills, running up those 200 perfect wooden steps over and over from the river valley to the plateau and back. Ran until my thighs burned, my calves ached. I ran up and paused at the top, my line of sight sweeping briefly over the Flats where my great-grandparents kept a house once. I say kept a house like some grandiose old matron, but really they kept a house in the way they knew how: they let their children and grandchildren stay there when they needed. They hosted tea and stories. It was a gathering place nestled in the river valley, within sight of the wooden steps that still snake along the tough grasses and scrubby poplars and willows and a few caraganas for good measure.</string>
+    <string name="text2">When I would reach the top of those creaky old stairs, I would turn and stare out at the valley, and I would allow, ever so briefly, for my gaze to hold the spot where my great-grandparents’ home allegedly stood. And for as long as I could contemplate the way the city wiped their home from memory with a bulldozer and a conviction of modernity, I would allow my eyes to sear the image into my brain. This was only ever a split second. I could only ever pause so briefly at the top of that peak. And then, I would set my jaw firmly in place and my eyes would sweep back to the wooden steps and the task at hand.</string>
+    <string name="text3">I would run those stairs, and others like them, in penury for my sins. For the sins of my father. I ran those paths and hills and stairs with a conviction that maybe, if I wore my shoes and bones and flesh down into nothing, into nubbins, if I wore myself into the earth and let myself eventually turn to dust, maybe through some magic I could right the wrongs they were forced to survive.</string>
+
+
 </resources>
